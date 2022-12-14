@@ -1,0 +1,14 @@
+.main-tables-container{
+    display: flex;
+    width: 930px;
+    margin: 0 auto;
+}
+.product-cards-container {
+    display:grid; 
+    grid-template-columns: 1fr 1fr;
+    width: 930px;
+    margin: 0 auto;
+}
+.plans-container--slaider {
+    justify-content: center;
+}
